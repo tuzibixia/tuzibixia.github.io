@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      ""
-subtitle:   ""
+title:      "本当のテーマです"
+subtitle:   "タイトルです"
 date:       2015-11-06
 author:     "Di"
 header-img: "img/post-bg-js-version.jpg"
