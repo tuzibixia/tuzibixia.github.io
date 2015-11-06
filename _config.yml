@@ -4,12 +4,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tuzibixia.github.io" # the base hostname & protocol for your site
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: Didichaoren
+user_description: どこへも、どこまでも、一緒に行こうぜ。
 user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+email: didichaorentuzibixia@foxmail.com
+twitter_username: didichaoren
+github_username:  didichaoren
 gplus_username:  lorem_ipsum
 disqus_username: didichaoren
 
@@ -35,7 +35,7 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: About Didi
     url: /about
 
 # exclude my node related stuff
