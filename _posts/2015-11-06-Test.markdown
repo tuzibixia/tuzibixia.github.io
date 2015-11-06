@@ -11,5 +11,5 @@ tags:
     - Mua
 ---
 
-![Test](/img/in-post/home-bg-art.jpg)
+![Test](/img/home-bg-art.jpg)
 <small class="img-hint">喵</small>
