@@ -8,7 +8,7 @@ tags:
 - jekyll
 - web
 categories:
-- Jekyll is awesome
+- 日本の生活
 twitter_text: 'Put your twitter description here.'
 ---
 

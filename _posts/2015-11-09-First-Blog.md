@@ -8,7 +8,7 @@ tags:
 - 日記
 - テスト 
 categories:
-- I love Jekyll
+- 技術
 twitter_text: 'How to install and use this template'
 ---
 
