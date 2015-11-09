@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to use"
+title: "Just for Test"
 date: 2015-08-03 03:32:44
-image: '/assets/img/'
+image: '/assets/img/blog-image'
 description: 'First steps to use this template'
 tags:
-- jekyll 
-- template 
+- 日記
+- テスト 
 categories:
 - I love Jekyll
 twitter_text: 'How to install and use this template'
