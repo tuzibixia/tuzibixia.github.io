@@ -1,43 +1,8 @@
-# Site settings
-description: A blog about didichaoren
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tuzibixia.github.io" # the base hostname & protocol for your site
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
 
-# User settings
-username: 二迪超人
-user_description: どこへも、どこまでも、一緒に行こうぜ。
-user_title: どこへも、どこまでも、一緒に行こうぜ。「テツ」
-email: didichaorentuzibixia@foxmail.com
-twitter_username: didichaoren
-github_username:  didichaoren
-instagram_username: didichaoren
-disqus_username: tuzibixia
-facebook_username: didichaoren
+url: "http://localhost:4000"
 
-# Build settings
-markdown: kramdown
-highlighter: pygments
-permalink: /:title/
+paginate: 10
 
-
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
-
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
-  - title: About Didi
-    url: /about
-
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']

@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    {% include head.html %}
-    <body>
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-            <article role="article" id="scroll" class="post-content" itemprop="articleBody">
-                {{ content }}
-            </article>
-
-            {% include share.html %}
-            {% include author.html %}
-            {% include comments.html %}
-            {% include footer.html %}
-        </section>
-    </body>
-</html>
+{% include header.html %}
+	<section class="box special">
+		<h3>{{ page.title }}</h3>
+		<span class="date">{{ page.date | date_to_string }}</span>
+		{{ page.content }}
+	</section>
+{% include footer.html %}
